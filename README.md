@@ -10,6 +10,7 @@
 I am passionate about transforming complex data into actionable insights and driving data-informed decision-making.
 
 **🔧 Skills & Technologies:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
@@ -19,7 +20,6 @@ I am passionate about transforming complex data into actionable insights and dri
 
 
 **📜 Certifications:**
-- **AWS Certified Cloud Practitioner**
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange)
 
