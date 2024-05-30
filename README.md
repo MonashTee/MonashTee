@@ -1,6 +1,7 @@
 ## Hello, I'm Temitope Akinmolayan 👋
 
- ![image](https://github.com/MonashTee/MonashTee/assets/91289484/bb51cbbe-d336-4b62-bb94-91feba75c5d7)
+ ![image](https://github.com/MonashTee/MonashTee/assets/91289484/a0bb0264-7f0f-49ed-af61-bf6082490ccf)
+
 
 
 
