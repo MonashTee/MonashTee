@@ -14,17 +14,13 @@ I am passionate about transforming complex data into actionable insights and dri
 - **Data Tools:** Power BI, Excel.
 - **Cloud Computing:** Developing expertise in AWS with a focus on cloud data engineering.
 
-- **Programming Languages:**
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
-  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
-
-- **Data Tools:**
-  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
-  ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
-
-- **Cloud Computing:**
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+**🔧 Skills & Technologies:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 
 
 **📜 Certifications:**
