@@ -20,6 +20,7 @@ I am passionate about transforming complex data into actionable insights and dri
 
 
 **📜 Certifications:**
+AWS: https://www.credly.com/badges/b35936ee-98d2-4fad-a75d-410e393a25d5/public_url
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange)
 
@@ -32,5 +33,4 @@ I am passionate about transforming complex data into actionable insights and dri
 **📬 Connect with Me:**
 - **Email:** [akinmolayanseun@gmail.com](mailto:akinmolayanseun@gmail.com)
 - **LinkedIn:** (https://www.linkedin.com/in/temitope-akinmolayan-bb2977125/)
-- **AWS:** https://www.credly.com/badges/b35936ee-98d2-4fad-a75d-410e393a25d5/public_url
   
