@@ -1,5 +1,8 @@
 ## Hello, I'm Temitope Akinmolayan 👋
 
+ ![image](https://github.com/MonashTee/MonashTee/assets/91289484/bb51cbbe-d336-4b62-bb94-91feba75c5d7)
+
+
 
 **📊 Data Analyst | 🎓 Master's Graduate in International Economics and Management with a Major in Data Science**
 
