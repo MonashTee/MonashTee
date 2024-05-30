@@ -6,9 +6,9 @@
 I am passionate about transforming complex data into actionable insights and driving data-informed decision-making.
 
 **🔧 Skills & Technologies:**
-- **Programming Languages:** Python, SQL, R
-- **Data Tools:** Power BI, Excel
-- **Cloud Computing:** Currently learning AWS
+- **Programming Languages:** Python, SQL, R.
+- **Data Tools:** Power BI, Excel.
+- **Cloud Computing:** Developing expertise in AWS with a focus on cloud data engineering.
 
 **📜 Certifications:**
 - **AWS Certified Cloud Practitioner**
