@@ -1,12 +1,20 @@
-## Hello, I'm Temitope Akinmolayan 👋
+## Hello, I'm Temitope 👋
+
+Data analyst with a finance and payments background. I spent several years reconciling transactions and investigating discrepancies at Jumia Pay and BetKing in Nigeria, then completed an M.Sc. in International Economics & Management with a Major (Economics with Data Science) at the University of Paderborn, Germany. Today I work as a finance data analyst for an international vehicle exporter, analysing payments, costs and margins.
 
  ![image](https://github.com/MonashTee/MonashTee/assets/91289484/a0bb0264-7f0f-49ed-af61-bf6082490ccf)
 
+## What I work with
+- SQL, Python (pandas, matploblib, scikit-learn, XGBoost), Power BI, Excel
+- Payment and transaction data, reconciliation, margin analysis, forecasting
 
 
 
 **📊 Data Analyst | 🎓 Master's Graduate in International Economics and Management with a Major in Data Science**
 
+## Projects
+- **Energy price forecasting (M.Sc. thesis):** Python models (Linear Regression, XGBoost, LSTM, Random Forest, GLM + Random Forest) forecasting daily and intraday Spanish electricity prices. [Repository](ADD-LINK)
+  
 I am passionate about transforming complex data into actionable insights and driving data-informed decision-making.
 
 **🔧 Skills & Technologies:**
