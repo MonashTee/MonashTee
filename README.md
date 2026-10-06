@@ -30,19 +30,15 @@ I'm currently building on my analytics background and moving deeper into data en
 ## 🚀 What's next
 Analysis depends on how the data gets to you. I'm increasingly drawn to the part that comes before it: building the pipelines that pull data together and keep it reliable.
 
-So alongside my analytics work, I'm building towards data engineering. Currently learning:
+So alongside my analytics work, my current focus is therefore on strengthening the engineering side of my skill set:
+
+Data Sources → Pipelines → Transformation → Data Warehouse → Analytics
+
+Currently learning:
 - Data warehousing and modelling
 - dbt and Apache Airflow for transformation and orchestration
 - AWS, starting with S3 and Redshift
 - Docker and Git for reproducible, version-controlled pipelines
-
-🚀 Where I'm Heading
-
-I'm interested in the full journey of data — from how it is collected and stored, to how it is transformed, analysed and used for business decisions.
-
-My current focus is therefore on strengthening the engineering side of my skill set:
-
-Data Sources → Pipelines → Transformation → Data Warehouse → Analytics
 
 I'm particularly interested in building reliable, reproducible data workflows using Python, SQL, dbt, Airflow and AWS.
 
