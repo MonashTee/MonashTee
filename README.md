@@ -5,18 +5,22 @@
 Finance and payments background, turning transaction data into reliable insight, and moving towards data engineering.
 
 ## 🌍 Background
-I've always enjoyed working with data, and I wanted a better way to do it, one that makes the data come alive.
+I work at the intersection of finance, business and data, with a background in transaction processing, reconciliation and financial reporting.
 
-It started with accounting. At Jumia Group and later BetKing in Nigeria, I spent years reconciling large volumes of transactions against bank records and investigating the ones that didn't match. At BetKing, that work uncovered fraudulent refunds and led to a revised approval process. I also automated our reconciliation reporting in Excel and Power BI, which cut manual processing time by 40%.
+My experience started with large volumes of payment and financial data, where I investigated discrepancies, improved reporting processes and turned transaction-level data into information that could be used for decision-making.
 
-That's when I wanted to go deeper. I did my master's at the University of Paderborn in Germany, majoring in Economics with Data Science, and learned Python, SQL and machine learning. My thesis used Python to forecast Spanish electricity prices. After that I worked as a data analyst intern at Atos, automating 50% of manual data-cleaning tasks in Python and building Power BI dashboards.
+I later completed an MSc in International Economics & Management at the University of Paderborn, specialising in Economics with Data Science, where I developed my skills in Python, SQL, data analysis and machine learning.
 
-Today I'm a finance data analyst at an international vehicle exporter, analysing payments, costs and margins across 100+ export orders. Analytics is still my core, and I'm continuing to build depth in it.
+My master's thesis focused on forecasting Spanish electricity prices using machine-learning models in Python.
+
+I'm currently building on my analytics background and moving deeper into data engineering, data pipelines and cloud technologies.
+
+
 
 ## 🔧 What I work with
 
 - **Data & BI:** SQL, Python (pandas, scikit-learn, XGBoost), Power BI, Excel
-- **Finance:** Payment and transaction data, reconciliation, margin analysis, forecasting
+- **Finance:** Payment and transaction data, reconciliation, financial reporting, variance analysis, margin analysis, forecasting, process improvement
 
 ![image](https://github.com/MonashTee/MonashTee/assets/91289484/a0bb0264-7f0f-49ed-af61-bf6082490ccf)
 
@@ -31,6 +35,7 @@ So alongside my analytics work, I'm building towards data engineering. Currently
 - dbt and Apache Airflow for transformation and orchestration
 - AWS, starting with S3 and Redshift
 - Docker and Git for reproducible, version-controlled pipelines
+
 
 **🔧 Skills & Technologies:**
 
