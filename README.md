@@ -1,21 +1,37 @@
 ## Hello, I'm Temitope 👋
 
-Data analyst with a finance and payments background. I spent several years reconciling transactions and investigating discrepancies at Jumia Pay and BetKing in Nigeria, then completed an M.Sc. in International Economics & Management with a Major (Economics with Data Science) at the University of Paderborn, Germany. Today I work as a finance data analyst for an international vehicle exporter, analysing payments, costs and margins.
+**📊 Data Analyst | 🎓 M.Sc. International Economics & Management (Economics with Data Science)**
 
- ![image](https://github.com/MonashTee/MonashTee/assets/91289484/a0bb0264-7f0f-49ed-af61-bf6082490ccf)
+Finance and payments background, turning transaction data into reliable insight, and moving towards data engineering.
 
-## What I work with
-- SQL, Python (pandas, matploblib, scikit-learn, XGBoost), Power BI, Excel
-- Payment and transaction data, reconciliation, margin analysis, forecasting
+## 🌍 Background
+I've always enjoyed working with data, and I wanted a better way to do it, one that makes the data come alive.
 
+It started with accounting. At Jumia Group and later BetKing in Nigeria, I spent years reconciling large volumes of transactions against bank records and investigating the ones that didn't match. At BetKing, that work uncovered fraudulent refunds and led to a revised approval process. I also automated our reconciliation reporting in Excel and Power BI, which cut manual processing time by 40%.
 
+That's when I wanted to go deeper. I did my master's at the University of Paderborn in Germany, majoring in Economics with Data Science, and learned Python, SQL and machine learning. My thesis used Python to forecast Spanish electricity prices. After that I worked as a data analyst intern at Atos, automating 50% of manual data-cleaning tasks in Python and building Power BI dashboards.
 
-**📊 Data Analyst | 🎓 Master's Graduate in International Economics and Management with a Major in Data Science**
+Today I'm a finance data analyst at an international vehicle exporter, analysing payments, costs and margins across 100+ export orders. Analytics is still my core, and I'm continuing to build depth in it.
+
+## 🔧 What I work with
+
+- **Data & BI:** SQL, Python (pandas, scikit-learn, XGBoost), Power BI, Excel
+- **Finance:** Payment and transaction data, reconciliation, margin analysis, forecasting
+
+## 🚀 What's next
+Analysis depends on how the data gets to you. I'm increasingly drawn to the part that comes before it: building the pipelines that pull data together and keep it reliable.
+
+So alongside my analytics work, I'm building towards data engineering. Currently learning:
+- Data warehousing and modelling
+- dbt and Apache Airflow for transformation and orchestration
+- AWS, starting with S3 and Redshift
+- Docker and Git for reproducible, version-controlled pipelines
+
+![image](https://github.com/MonashTee/MonashTee/assets/91289484/a0bb0264-7f0f-49ed-af61-bf6082490ccf)
 
 ## Projects
-- **Energy price forecasting (M.Sc. thesis):** Python models (Linear Regression, XGBoost, LSTM, Random Forest, GLM + Random Forest) forecasting daily and intraday Spanish electricity prices. [Repository](ADD-LINK)
+- **Energy price forecasting (M.Sc. thesis):** Python models (Linear Regression, XGBoost, LSTM, Random Forest, GLM + Random Forest) forecasting daily and intraday Spanish electricity prices. [Repository](https://github.com/MonashTee/Master-Thesis)
   
-I am passionate about transforming complex data into actionable insights and driving data-informed decision-making.
 
 **🔧 Skills & Technologies:**
 
@@ -32,11 +48,6 @@ AWS: https://www.credly.com/badges/b35936ee-98d2-4fad-a75d-410e393a25d5/public_u
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange)
 
-**🚀 Current Interests:**
-- Exploring Cloud Solutions with AWS
-- Advanced Data Analytics and Visualization
-- Machine Learning for Predictive Modeling and Automation
-- Applying Machine Learning in Real-World Applications
 
 **📬 Connect with Me:**
 - **Email:** [akinmolayanseun@gmail.com](mailto:akinmolayanseun@gmail.com)
