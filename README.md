@@ -18,6 +18,11 @@ Today I'm a finance data analyst at an international vehicle exporter, analysing
 - **Data & BI:** SQL, Python (pandas, scikit-learn, XGBoost), Power BI, Excel
 - **Finance:** Payment and transaction data, reconciliation, margin analysis, forecasting
 
+![image](https://github.com/MonashTee/MonashTee/assets/91289484/a0bb0264-7f0f-49ed-af61-bf6082490ccf)
+
+## Projects
+- **Energy price forecasting (M.Sc. thesis):** Python models (Linear Regression, XGBoost, LSTM, Random Forest, GLM + Random Forest) forecasting daily and intraday Spanish electricity prices. [Repository](https://github.com/MonashTee/Master-Thesis)
+
 ## 🚀 What's next
 Analysis depends on how the data gets to you. I'm increasingly drawn to the part that comes before it: building the pipelines that pull data together and keep it reliable.
 
@@ -26,12 +31,6 @@ So alongside my analytics work, I'm building towards data engineering. Currently
 - dbt and Apache Airflow for transformation and orchestration
 - AWS, starting with S3 and Redshift
 - Docker and Git for reproducible, version-controlled pipelines
-
-![image](https://github.com/MonashTee/MonashTee/assets/91289484/a0bb0264-7f0f-49ed-af61-bf6082490ccf)
-
-## Projects
-- **Energy price forecasting (M.Sc. thesis):** Python models (Linear Regression, XGBoost, LSTM, Random Forest, GLM + Random Forest) forecasting daily and intraday Spanish electricity prices. [Repository](https://github.com/MonashTee/Master-Thesis)
-  
 
 **🔧 Skills & Technologies:**
 
